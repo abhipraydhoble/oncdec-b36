@@ -1,3 +1,8 @@
+# Download git bash for windows
+````
+https://www.stanleyulili.com/git/how-to-install-git-bash-on-windows
+````
+
 # How to create a repository on github
 - go to profie and click on new then create new repository
 <img width="632" height="416" alt="image" src="https://github.com/user-attachments/assets/8319c2aa-a3fa-4024-9c19-bda045252640" />
